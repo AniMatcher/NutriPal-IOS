@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  NutriPal
 //
-//  Co-Authored by Wiliam Zhou, Kelly Huang, Konnie Huang, & Philip Yi on 9/12/23.
+//  Co-Authored by William Zhou, Kelly Huang, Konnie Huang, & Philip Yi on 9/12/23.
 //
 
 import SwiftUI
